@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Integrated Governance Report",
+    "regulation": "13(3) + 27(2)",
+    "frequency": "quarterly",
+    "due_days": 21,
+    "type": "periodic"
+  },
+  {
+    "name": "Integrated Financial Results",
+    "regulation": "33 + 30 + 32",
+    "frequency": "quarterly",
+    "due_days": 45,
+    "type": "periodic"
+  },
+  {
+    "name": "Shareholding Pattern",
+    "regulation": "31(1)",
+    "frequency": "quarterly",
+    "due_days": 21,
+    "type": "periodic"
+  },
+  {
+    "name": "Reconciliation Audit",
+    "regulation": "76",
+    "frequency": "quarterly",
+    "due_days": 30,
+    "type": "periodic"
+  }
+]
